@@ -1,7 +1,0 @@
-{
-  "name": "Asistente de Medios BCV",
-  "description": "Una plataforma de inteligencia y monitoreo de medios para centralizar, analizar y actuar sobre información de diversas fuentes en tiempo real utilizando IA. Diseñada para el análisis económico y geopolítico.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
